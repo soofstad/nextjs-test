@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "123",
+      "description": "Hallo på do lorem ipsum"
+    },
+    {
+      "name": "ABC",
+      "description": "Hallo på do lorem ipsum"
+    }
+  ]
+}
